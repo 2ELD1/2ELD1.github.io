@@ -1,3 +1,3 @@
-# tlystad24.github.io
+# 2ELD1.github.io
 
-Website
+This repo is for the github page
