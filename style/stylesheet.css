@@ -33,6 +33,16 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+#progress {
+	text-align: center;
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+}
+
+a {
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+	
+} 
+
 #container {
 	
 	margin-left: auto;
@@ -42,8 +52,13 @@ body {
 	font-family: Arial, Sans-serif;  
 	text-align: center;
 	width: 100%;
-	height: 250px;
+	/*height: 250px;*/
 	background: linear-gradient(120deg, #155799, #159957);
+	min-height: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 } 
 
 #header {
